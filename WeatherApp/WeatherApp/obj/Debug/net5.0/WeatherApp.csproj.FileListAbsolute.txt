@@ -1,0 +1,7 @@
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.AssemblyInfo.cs
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shter\source\repos\WeatherApp\WeatherApp\obj\Debug\net5.0\WeatherApp.MvcApplicationPartsAssemblyInfo.cache
